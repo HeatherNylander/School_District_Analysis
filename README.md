@@ -4,7 +4,7 @@
 The school board is concerned with academic dishonesty regarding reading and math grades for 9th graders at Thomas High School. The school board has requested that the compromised data be replaced with NaNs while keeping the rest of the data intact. Once the indicated data is replaced, Maria will need an updated school district analysis. 
 
 ## Results
--How is the district summary affected from removing 9th grade students from Thomas High School?
+### How is the district summary affected from removing 9th grade students from Thomas High School?
 - Average Math Score: decreased from 79 to 78.90.
 - Average Reading Score: did not change from 81.9.
 - Percent Passing Math: decreased from 75.0% to 74.8%.
