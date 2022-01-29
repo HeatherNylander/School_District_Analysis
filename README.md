@@ -12,7 +12,7 @@ The school board is concerned with academic dishonesty regarding reading and mat
 - Percent Overall Passing: decreased from 65.2% to 64.9%.
 
 ![District Summary Before](Resources/district_summary_before.png)
-![District Summary After](resources/district_summary_after.png)
+![District Summary After](Resources/district_summary_after.png)
     
 ### How is the school summary affected?
 - Average Math Score: did not change from 83.4.
@@ -21,8 +21,8 @@ The school board is concerned with academic dishonesty regarding reading and mat
 - Percent Passing Reading: decreased from 97.3% to 69.7%.
 - Percent Overall Passing: decreased from 90.9% to 65.1%.
     
-![Thomas High School Summary Before](resources/ths_summary_before.png)
-![Thomas High School Summary After](resources/ths_summary_after.png)
+![Thomas High School Summary Before](Resources/ths_summary_before.png)
+![Thomas High School Summary After](Resources/ths_summary_after.png)
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 - Average Math Score: THS no longer remains in top 5 schools for average math score.
@@ -39,8 +39,8 @@ The school board is concerned with academic dishonesty regarding reading and mat
 -Scores by school size: No significant change in scores by school size since the NaNs were no longer counted in the total student count regarding the total scores.
 -Scores by school type: No significant change in scores by school type since the NaNs were no longer counted in the total student count regarding the total scores.
 
-![District Summary by School Size and Spending](resources/district_summary_complete.png)
-![District Summary by School Type](resources/district_summary_schooltype.png)
+![District Summary by School Size and Spending](Resources/district_summary_complete.png)
+![District Summary by School Type](Resources/district_summary_schooltype.png)
 
 
 ## Summary
