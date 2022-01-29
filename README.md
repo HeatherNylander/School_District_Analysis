@@ -11,7 +11,9 @@ The school board is concerned with academic dishonesty regarding reading and mat
 - Percent Passing Reading: decreased from 86.0% to 85.7%.
 - Percent Overall Passing: decreased from 65.2% to 64.9%.
 
+##### District Summary Before
 ![District Summary Before](Resources/district_summary_before.png)
+##### District Summary After
 ![District Summary After](Resources/district_summary_after.png)
     
 ### How is the school summary affected?
@@ -20,8 +22,10 @@ The school board is concerned with academic dishonesty regarding reading and mat
 - Percent Passing Math: decreased from 93.3% to 66.9%.
 - Percent Passing Reading: decreased from 97.3% to 69.7%.
 - Percent Overall Passing: decreased from 90.9% to 65.1%.
-    
+
+##### Thomas High School Summary Before
 ![Thomas High School Summary Before](Resources/ths_summary_before.png)
+##### Thomas High School Summary After
 ![Thomas High School Summary After](Resources/ths_summary_after.png)
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
@@ -34,12 +38,14 @@ The school board is concerned with academic dishonesty regarding reading and mat
 **NOTE: At this point, the 9th grade scores were taken out from total student count in order to better reflect true overall passing percentage for THS.**
 
 ### How does replacing the ninth-grade scores affect the following:
--Math and reading scores by grade: The 9th grade scores were removed and the others stayed the same.
--Scores by school spending: No significant change in scores by school spending since the NaNs were no longer counted in the total student count regarding the total scores. 
--Scores by school size: No significant change in scores by school size since the NaNs were no longer counted in the total student count regarding the total scores.
--Scores by school type: No significant change in scores by school type since the NaNs were no longer counted in the total student count regarding the total scores.
+- Math and reading scores by grade: The 9th grade scores were removed and the others stayed the same.
+- Scores by school spending: No significant change in scores by school spending since the NaNs were no longer counted in the total student count regarding the total scores. 
+- Scores by school size: No significant change in scores by school size since the NaNs were no longer counted in the total student count regarding the total scores.
+- Scores by school type: No significant change in scores by school type since the NaNs were no longer counted in the total student count regarding the total scores.
 
+##### District Summary by School Size and Spending
 ![District Summary by School Size and Spending](Resources/district_summary_complete.png)
+##### District Summary by School Type
 ![District Summary by School Type](Resources/district_summary_schooltype.png)
 
 
