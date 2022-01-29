@@ -11,7 +11,7 @@ The school board is concerned with academic dishonesty regarding reading and mat
 - Percent Passing Reading: decreased from 86.0% to 85.7%.
 - Percent Overall Passing: decreased from 65.2% to 64.9%.
 
-![District Summary Before](resources/district_summary_before.png)
+![District Summary Before](Resources/district_summary_before.png)
 ![District Summary After](resources/district_summary_after.png)
     
 ### How is the school summary affected?
